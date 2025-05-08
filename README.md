@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Likhaya and I'm a Juniour Fullstack Developer and I am also learning Cyber Security</h2>
+<h2 align="center">Hi 👋! My name is Likhaya and I'm a Juniour Fullstack Developer and I am also learning CyberSecurity</h2>
 
 ###
 
