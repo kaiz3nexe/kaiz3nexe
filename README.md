@@ -1,12 +1,20 @@
-# Hi there, I'm Likhaya Nete⭐️
+![Cybersecurity Banner](https://images.unsplash.com/photo-1510511459019-5dda7724fd87?auto=format&fit=crop&w=1350&q=80)
+
+# Hi there, I'm Likhaya Nete ⭐️
+
+👋 **IT Graduate | Software Developer | Aspiring Cybersecurity Specialist**
+
+---
 
 ## 🚀 About Me
 
-I'm a passionate **IT Graduate** specializing in **Software Development** with a growing interest in **Cybersecurity**. I enjoy solving problems and exploring the latest security practices.
+- 🖥️ Passionate about software development and security
+- 🌱 Currently learning **Cybersecurity**
+- 🎯 Aiming to specialize in **Cybersecurity/Software Development**
+- 🧩 Enjoy solving problems and exploring new tech
+- ✨ *"Security is not a product, but a process."* – Bruce Schneier
 
-- 🌱 I'm currently learning **Cybersecurity**
-- 🎯 I'm looking to Specialize in a **Cybersecurity/Software Development role**
-- **"Security is not a product, but a process."** - Bruce Schneier
+---
 
 ## 🛠️ Tech Stack
 
@@ -28,7 +36,9 @@ I'm a passionate **IT Graduate** specializing in **Software Development** with a
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 
-## 📊 GitHub Stats
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
   
@@ -38,6 +48,8 @@ I'm a passionate **IT Graduate** specializing in **Software Development** with a
 
 </div>
 
+---
+
 ## 🎯 Current Focus
 
 - 🔐 Learning **Ethical Hacking** and **Penetration Testing**
@@ -46,4 +58,4 @@ I'm a passionate **IT Graduate** specializing in **Software Development** with a
 - 🔍 Participating in **CTF competitions**
 - 🤝 Building projects that combine **Development** and **Security**
 
-</div>
+---
